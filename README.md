@@ -24,7 +24,7 @@ Start by sourcing your data. For example, I downloaded Spotify related datasets 
 I created S3 bucket and uploaded dataset files such as "data_by_artist.csv". <br />
 
 <b>3. AWS QuickSight Configuration: </b>
-I signed up for AWS QuickSight on a free trail, chose my authentication preferences and granted QuickSight permission to access my S3 bucket for data ingestion. <br />
+I signed up for AWS QuickSight on a free trial, chose my authentication preferences and granted QuickSight permission to access my S3 bucket for data ingestion. <br />
 
 <b>4. Data Visualization in QuckSight: </b>
 I created a new dataset, connected it to the data stored in S3, and began building visualization. I also experimented with different chart types and filters to extract meaningful insights. <br />
